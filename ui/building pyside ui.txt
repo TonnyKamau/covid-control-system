@@ -1,0 +1,4 @@
+python -m  PyQt5.uic.pyuic -x main.ui -o main.py
+pyside2-rcc.exe img.qrc -o img_rc.py
+	then in img_rc.py change: from Pyside2 import QtCore. to: from PyQt5 import QtCore
+

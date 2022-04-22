@@ -1,0 +1,5 @@
+<RCC>
+  <qresource prefix="icons">
+    <file>Coronavirus-CDC.png</file>
+  </qresource>
+</RCC>
